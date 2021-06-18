@@ -1,0 +1,27 @@
+.user-card-img {
+  max-width: 20%;
+  height: auto;
+  margin-right: 20px;
+}
+
+.user-card-buttons-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 20px;
+}
+
+.user-card-button {
+  max-height: 40px;
+  margin-left: 10px;
+}
+
+.user-card-green-text {
+  color: rgb(61, 209, 61);
+  font-weight: bold;
+}
+
+.user-card-red-text {
+    color: red;
+    font-weight: bold;
+}
